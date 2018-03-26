@@ -1,0 +1,14 @@
+body {
+  direction: rtl;
+  text-align: right;
+}
+.list-group, .course-st {
+  padding-right: 0;
+}
+.course-st li {
+  padding-bottom: 5px;
+  list-style:none;
+}
+.redcolor {
+  color :#ff0000;
+}
